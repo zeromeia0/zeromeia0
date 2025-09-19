@@ -70,7 +70,7 @@
       <td>Low-Level Signal Handling, File Descriptor Communication</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/andrelencart/Minishell">Minishell</a></b></td>
+      <td><b><a href="https://github.com/zeromeia0/minishell">Minishell</a></b></td>
       <td>Shell Basics, Parsing and Tokenization, Pipelines</td>
     </tr>
   </table>
