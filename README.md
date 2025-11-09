@@ -73,6 +73,10 @@
       <td><b><a href="https://github.com/zeromeia0/minishell">Minishell</a></b></td>
       <td>Shell Basics, Parsing and Tokenization, Pipelines</td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/zeromeia0/philosophers">Philosophers</a></b></td>
+      <td>Threads, Mutex, Race Conditions</td>
+    </tr>
   </table>
 </div>
 
