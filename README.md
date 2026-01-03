@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/zeromeia0/philosophers">Philosophers</a></b></td>
-      <td>Multi-threading, Mutex, Race Conditions</td>
+      <td>Multi-Threading, Mutex, Race Conditions</td>
     </tr>
   </table>
 </div>
