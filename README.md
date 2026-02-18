@@ -23,7 +23,7 @@
 <ul align="left">
   <li><strong><a href="https://github.com/zeromeia0/minishell">Minishell</a></strong> | Custom Unix Shell | C </li>
   <li><strong><a href="https://github.com/zeromeia0/push_swap">Push Swap</a></strong> | Low Level Sorting Algorythm | C </li>
-  <li><strong><a href="https://github.com/zeromeia0/so_long">So_Long</a></strong> | My First Game | C </li>
+  <li><strong><a href="https://github.com/zeromeia0/cub3d">Cub3d</a></strong> | 3D-perceived Game | C </li>
 </ul>
 
 <!-- Skills -->
@@ -89,7 +89,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70">
   Nice Github Statistics
 </h2>
-
 <div align="center">
   <a href="#stats-">
     <img src="https://github-readme-stats.vercel.app/api?username=zeromeia0&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3&cache_seconds=1800" />
