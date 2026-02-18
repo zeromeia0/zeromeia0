@@ -77,6 +77,10 @@
       <td><b><a href="https://github.com/zeromeia0/philosophers">Philosophers</a></b></td>
       <td>Multi-Threading, Mutex, Race Conditions</td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/zeromeia0/cub3d">Cub3d</a></b></td>
+      <td>Raycasting, Mathematics, Graphics, Rendering</td>
+    </tr>
   </table>
 </div>
 
