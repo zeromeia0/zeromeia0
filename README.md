@@ -81,6 +81,10 @@
       <td><b><a href="https://github.com/zeromeia0/cub3d">Cub3d</a></b></td>
       <td>Raycasting, Mathematics, Graphics, Rendering</td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/zeromeia0/Cpp_Modules">CPP Modules</a></b></td>
+      <td>C++, Inheritance, Polymorphism, Vectors, Templates</td>
+    </tr>
   </table>
 </div>
 
